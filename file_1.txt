@@ -3,3 +3,5 @@ some data
 work with github
 add ssh key {line from user2}
 change data from user1
+-------------
+some changes from user1 about rebase
