@@ -1,5 +1,5 @@
 File_1
 some data
 work with github
-add ssh key
+add ssh key {line from user2}
 change data from user1
